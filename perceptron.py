@@ -1,3 +1,4 @@
+import numpy as np
 epoc = 0
 
 weights = np.array([0.0,0.0])
